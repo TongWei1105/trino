@@ -1396,15 +1396,9 @@
 
             <dependency>
                 <groupId>org.jdbi</groupId>
-                <artifactId>jdbi</artifactId>
-                <version>2.78</version>
-            </dependency>
-
-            <dependency>
-                <groupId>org.jdbi</groupId>
                 <artifactId>jdbi3-bom</artifactId>
                 <type>pom</type>
-                <version>3.21.0</version>
+                <version>3.23.0</version>
                 <scope>import</scope>
             </dependency>
 
